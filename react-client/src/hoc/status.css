@@ -1,0 +1,30 @@
+.loader {
+      padding : 10px;
+}
+
+.loader .loader-image {
+      width : 20%;
+      display:block;
+      color: #37aabf;
+      margin: 0 auto;
+}
+
+.loader .loader-message {
+        text-align: center;
+        text-transform: capitalize;
+        font-size:20px;
+        padding-top:20px;
+        font-family: Roboto,sans-serif;
+        color: #37aabf;
+}
+
+.error {
+      padding : 10px;
+}
+
+.error .error-message {
+        text-align: center;
+        font-size:20px;
+        text-transform: capitalize;
+        color: #e74c39;
+}

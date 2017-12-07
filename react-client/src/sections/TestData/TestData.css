@@ -1,0 +1,22 @@
+.column-select {
+   padding:10px;
+   background-color: #ebf0f5;
+   margin-top:15px;
+}
+
+.moreinfo {
+        padding-left: 3px;
+        font-size:14px;
+        font-weight: bold;
+        text-decoration: underline;
+}
+
+.info-icon {
+      background-image:url('../../static/img/InfoIcon.png');
+      background-size:100% 100%;
+      width:15px;
+      height:15px;
+      vertical-align: middle;
+      margin-left:10px;
+      display:inline-block;
+}

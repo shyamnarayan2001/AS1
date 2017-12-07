@@ -1,0 +1,16 @@
+__pycache__/
+.py[cod]
+
+server/.vscode
+server/algorithms/api/__pycache__
+server/config/__pycache__
+server/headers/api/__pycache__
+server/InputDataFrame
+server/Model
+server/Output
+server/selenium
+server/runStatus/api/__pycache__
+server/viewModels/api/__pycache__
+server/db.sqlite3
+server/ghostdriver.log
+server/log.log

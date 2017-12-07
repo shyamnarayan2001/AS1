@@ -1,0 +1,12 @@
+.status-date-time .status-date,
+.status-time {
+  vertical-align: top;
+}
+.status-time {
+  margin-top: 5px;
+}
+
+.status-date,
+.status-time {
+  color: #999999;
+}

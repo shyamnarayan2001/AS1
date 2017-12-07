@@ -1,0 +1,19 @@
+.checkbox-group {
+        padding:10px;
+}
+
+.checkbox-group-vertical {
+      display:inline-block;
+      width : 33%;
+}
+
+.checkbox-custom-horizontal {
+      display : block;
+}
+
+
+.checkbox-group h2 {
+      font-weight: bold;
+      text-align: left;
+      padding-bottom:10px;
+}

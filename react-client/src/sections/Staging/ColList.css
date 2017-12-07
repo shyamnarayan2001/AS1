@@ -1,0 +1,16 @@
+.col-list {
+      /*padding: 10px;*/
+}
+
+.col-item {
+      padding : 5px;
+      font-size: 16px;
+}
+
+.col-link{
+      cursor: pointer;
+      text-decoration: underline;
+      color:#37aabf;
+      font-size:13px;
+      padding-left: 5px;
+}

@@ -1,0 +1,22 @@
+.drop-down {
+  padding: 10px;
+  font-family: Roboto, sans-serif;
+}
+
+.drop-down-label {
+  display: block;
+  font-weight: bold;
+}
+
+.drop-down-select {
+  padding: 10px;
+  margin-top: 10px;
+  width: 35%;
+  border-radius: 5px;
+  outline: none;
+}
+
+.drop-down-prompt {
+      font-style: italic;
+      color:grey;
+}

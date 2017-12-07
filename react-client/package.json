@@ -1,0 +1,33 @@
+{
+  "name": "react-client",
+  "version": "0.1.0",
+  "proxy": "http://localhost:8000/",
+  "private": true,
+  "dependencies": {
+    "dateformat": "^2.0.0",
+    "moment": "^2.18.1",
+    "ramda": "^0.24.1",
+    "react": "^15.6.1",
+    "react-d3": "^0.4.0",
+    "react-d3-basic": "^1.6.11",
+    "react-datepicker": "^0.48.0",
+    "react-dom": "^15.6.1",
+    "react-file-input": "^0.2.5",
+    "react-materialize": "^1.0.6",
+    "react-modal": "^2.2.1",
+    "react-redux": "^5.0.6",
+    "react-router-dom": "^4.1.1",
+    "redux": "^3.7.2",
+    "shallow-compare": "^1.2.1",
+    "shallowequal": "^1.0.2"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.7"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

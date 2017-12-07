@@ -1,0 +1,15 @@
+.outer-text {
+  width: 100%;
+  text-align: center;
+  border-bottom: 1px solid #37aabf;
+  line-height: 0.1em;
+  margin: 10px 0 20px;
+}
+
+.outer-text .inner-text {
+  background-color: #ebf0f5;
+  border:1px solid #37aabf;
+  font-size:12px;
+  border-radius:20px;
+  padding:5px;
+}

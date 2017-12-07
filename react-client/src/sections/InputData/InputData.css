@@ -1,0 +1,12 @@
+.run-section {
+      padding : 10px;
+      margin-top:20px;
+}
+
+.no-content {
+        text-align: center;
+        font-size: 20px;
+        /*text-transform: capitalize;*/
+        font-weight:bold;
+        padding :  83px;
+}

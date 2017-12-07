@@ -1,0 +1,43 @@
+.file-upload {
+      padding: 10px;
+      font-family: Roboto,sans-serif;
+}
+
+.file-upload .description {
+        font-size : 14px;
+        padding: 10px;
+        text-align: center;
+        color:#999999;
+}
+.file-upload .file-path {
+        background: #999999;
+        opacity:1;
+}
+.file-input-form {
+        text-align: left;
+        padding-left:20px;
+}
+
+.file-upload .file-upload-radio {
+        background:#fff;
+        padding: 10px;
+}
+
+.button-group {
+        padding : 10px;
+        text-align:center;
+
+}
+
+.submit-button {
+      margin-right : 30px;
+}
+
+.cancel-button {
+       background:#999999;
+}
+
+
+.submit-button , .cancel-button {
+        display:inline-block;
+}

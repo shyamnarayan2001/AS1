@@ -1,0 +1,19 @@
+.text-area-label {
+      display:block;
+      font-family:Roboto,sans-serif;
+      font-weight:bold;
+}
+
+.custom-textarea {
+      height : 300px;
+      margin-top:10px;
+      width:70%;
+      border-radius: 5px;
+      outline:none;
+      font-family: Roboto,sans-serif;
+      font-size:18px;
+}
+
+.textarea-container {
+  padding:10px;
+}

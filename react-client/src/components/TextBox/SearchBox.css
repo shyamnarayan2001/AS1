@@ -1,0 +1,15 @@
+.search-box-container {
+      padding:10px;
+}
+.search-box {
+      outline: none;
+      border:none;
+      padding-bottom:6px;
+      border-bottom:1px solid #a2a0a0;
+      font-family: Roboto,sans-serif;
+      background-image:url('../../static/img/SearchIcon.png');
+      background-repeat: no-repeat;
+      background-position: right;
+      background-size: 18px 18px;
+      width:25%;
+}

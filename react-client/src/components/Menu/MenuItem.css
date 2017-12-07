@@ -1,0 +1,65 @@
+.menu-item {
+  text-transform: uppercase;
+  display: block;
+  position: relative;
+  height: 50px;
+  padding: 10px;
+  width: 100%;
+}
+.menu-link {
+  text-decoration: none;
+  display: block;
+  color: #fff;
+}
+
+.menu-text {
+  position: absolute;
+  left: 35%;
+  bottom: 15px;
+}
+
+.menu-active {
+  background-color: #37aabf;
+}
+
+.menu-item:hover {
+  background-color: #37aabf;
+}
+
+.icon {
+  display: inline-block;
+  position: absolute;
+  left: 15%;
+  /*vertical-align: middle;*/
+  width: 37px;
+  height: 100%;
+  background-repeat: no-repeat;
+}
+
+.account-icon {
+  background-image: url('../../static/img/AccountIcon.png');
+}
+
+.input-data-icon {
+  background-image: url('../../static/img/InputDataIcon.png');
+}
+
+.run-status-icon {
+  background-image: url('../../static/img/RunStatusIcon.png');
+}
+
+.my-data-icon {
+  background-image: url('../../static/img/MyDataIcon.png');
+}
+
+.models-icon {
+  background-image: url('../../static/img/ModelsIcon.png');
+}
+
+.staging-icon {
+  background-image: url('../../static/img/StagingIcon.png');
+}
+
+.help-icon {
+  background-image: url('../../static/img/HelpIcon.png');
+}

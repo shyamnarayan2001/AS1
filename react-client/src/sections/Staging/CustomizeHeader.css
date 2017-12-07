@@ -1,0 +1,15 @@
+.customize-header {
+        padding : 10px;
+        background :#ebf0f5;
+}
+
+.new-table-button{
+        display:block;
+        width : 40%;
+        margin:0 auto;
+}
+
+.customize-header-title {
+        padding : 10px;
+        padding-bottom: 20px;
+}

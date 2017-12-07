@@ -1,0 +1,21 @@
+.user-info {
+        display: inline-block;
+        position : absolute;
+        top : 10px;
+        right : 10px;
+}
+
+.user-avatar {
+      display: inline-block;
+      padding-right : 10px;
+}
+
+.user-info .user-details {
+      color : #333333;
+      display:inline-block;
+}
+
+.user-details p {
+      color : #37abbf;
+      font-size:15px;
+}

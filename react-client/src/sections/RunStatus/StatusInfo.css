@@ -1,0 +1,45 @@
+.status-msg {
+  color: #72c342;
+}
+.error-msg {
+  color: #e74c39;
+}
+.status-info {
+  padding: 20px;
+}
+.progress-section {
+  margin-top: 10px;
+  width: 75%;
+}
+
+.completed-progress-section {
+      margin-top:10px;
+      width:100%;
+}
+.status-button {
+  width: 100%;
+  background: #fff;
+  box-shadow: none;
+  padding: 5px;
+}
+
+.stop {
+  color: #e74c39;
+  border: 1px solid #e74c39;
+}
+.grey {
+    color : #999999;
+    border:1px solid #999999;
+    width : 80%;
+}
+
+.blue {
+    color : #37aabf;
+    border:1px solid #37aabf;
+    width : 80%;
+}
+
+.green {
+  color: #72c342;
+  border: 1px solid #72c342;
+}

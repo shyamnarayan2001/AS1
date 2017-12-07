@@ -1,0 +1,37 @@
+.percentage {
+  display: inline-block;
+  padding: 4px;
+  text-align: center;
+  border-radius: 5px;
+  width: 12%;
+  font-size: 11px;
+  font-weight: bold;
+  vertical-align: middle;
+  color: #fff;
+  background: #37aabf;
+}
+
+
+
+.progress-bar {
+  padding: 10px;
+  width: 100%;
+  background: #9adeea;
+  border-radius: 5px;
+}
+
+.status-bar {
+  display: inline-block;
+  vertical-align: middle;
+  width: 86%;
+  margin-left: 2%;
+  border-radius: 4px;
+  background: #37b0c9;
+  height: 10px;
+}
+
+.complete-bar {
+  background: #fff;
+  height: 100%;
+  border-radius: 4px;
+}

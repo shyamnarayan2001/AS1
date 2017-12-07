@@ -1,0 +1,24 @@
+.text-field {
+      border-radius:5px;
+      height:35px;
+      width : 35%;
+      margin-top:10px;
+      border: 1px solid #a2a0a0;
+      font-size:18px;
+      font-family: Roboto,sans-serif;
+      outline: none;
+}
+
+.text-box label {
+        text-align: left;
+}
+
+.text-box {
+        font-family: Roboto,sans-serif;
+        font-weight:bold;
+        padding : 10px;
+}
+
+.text-box label,input{
+      display:block;
+}
